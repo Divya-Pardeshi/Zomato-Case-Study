@@ -50,9 +50,9 @@ The objective of this project is to analyze various aspects of the Zomato datase
     cd zomato-case-study
     ```
 
-3. Explore the SQL queries in `queries.sql` to understand the data analysis process.
+3. Explore the SQL queries in `Zomato_Case_Study.sql` to understand the data analysis process.
 
-4. Review the insights documented in `insights.md` to gain actionable insights from the analysis.
+4. Review the insights documented in `Zomato_Case_ Study_PDF_Queries.pdf` to gain actionable insights from the analysis.
 
 ## Contributor
 
